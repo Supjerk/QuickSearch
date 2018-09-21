@@ -11,3 +11,7 @@ cd QuickSearch
 gcc ./src/main.c -o ./qs
 sudo ln -s PATH/qs /usr/bin/qs
 ```
+
+## How to use
+
+Press Alt+F2, execute qs command.
